@@ -25,4 +25,4 @@ Clickables can be initialized at any time but is generally initialized at the to
 		anchorToSpan: true
 	});	
 
-For specific usage and options, please read the documentation or visit http://davidwalsh.name/js/clickables
+For specific usage and options, please read the documentation or visit [http://davidwalsh.name/js/clickables](http://davidwalsh.name/js/clickables)
