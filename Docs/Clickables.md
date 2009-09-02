@@ -1,13 +1,19 @@
-Class: this.Clickables {#this.Clickables}
+Class: Clickables {#Clickables}
 =========================================
 
+Clickables is a MooTools plugin that allows non-anchor items to clicked like standard links.  The first anchor in the element will be used for the link URL.
+
+
+![Screenshot](http://davidwalsh.name/dw-content/scrollspy.png)
 
 ### Implements:
 
 Options
 
 
-this.Clickables Method: constructor {#this.Clickables:constructor}
+
+
+Clickables Method: constructor {#Clickables:constructor}
 -------------------------------------------------------------------
 
 
