@@ -3,6 +3,9 @@ Clickables
 
 Clickables is a MooTools plugin that allows non-anchor items to clicked like standard links.  The first anchor in the element will be used for the link URL.
 
+![Screenshot](http://davidwalsh.name/dw-content/clickables.png)
+
+
 How to Use
 ----------
 
