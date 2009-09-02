@@ -1,7 +1,7 @@
 Class: this.Clickables {#this.Clickables}
 =========================================
 
-
+![Screenshot](http://davidwalsh.name/wp-content/themes/walshbook/images/top-logo.gif)
 
 ### Implements:
 
