@@ -8,8 +8,6 @@ Clickables is a MooTools plugin that allows non-anchor items to clicked like sta
 Options
 
 
-
-
 Clickables Method: constructor {#Clickables:constructor}
 -------------------------------------------------------------------
 

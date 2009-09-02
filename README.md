@@ -25,4 +25,4 @@ Clickables can be initialized at any time but is generally initialized at the to
 		anchorToSpan: true
 	});	
 
-For specific usage and options, please read the documentation or visit http://davidwalsh.name/dwclickable-entire-block-clickable-mootools
+For specific usage and options, please read the documentation or visit http://davidwalsh.name/js/clickables
