@@ -1,13 +1,10 @@
 Class: this.Clickables {#this.Clickables}
 =========================================
 
-![Screenshot](http://davidwalsh.name/wp-content/themes/walshbook/images/top-logo.gif)
 
 ### Implements:
 
 Options
-
-
 
 
 this.Clickables Method: constructor {#this.Clickables:constructor}
