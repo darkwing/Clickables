@@ -11,7 +11,7 @@ How to Use
 
 Clickables can be initialized at any time but is generally initialized at the top of the document during the page's normal load.  There are no required arguments -- only options.
 	
-### HTML
+HTML
 	<ul class="block-list">
 		<li>Clicking this block will take you to <a href="http://davidwalsh.name">DavidWalsh.name</a></li>
 		<li>Clicking this block will take you to <a href="http://scriptandstyle.com">Script&Style.com</a>.</li>
