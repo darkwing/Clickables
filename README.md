@@ -11,13 +11,13 @@ How to Use
 
 Clickables can be initialized at any time but is generally initialized at the top of the document during the page's normal load.  There are no required arguments -- only options.
 	
-<div>
-	<ul class="block-list">
-		<li>Clicking this block will take you to <a href="http://davidwalsh.name">DavidWalsh.name</a></li>
-		<li>Clicking this block will take you to <a href="http://scriptandstyle.com">Script&Style.com</a>.</li>
-		<li>Clicking this block will take you to <a href="http://mootools.net">MooTools.net</a></li>
-	</ul>
-</div>
+	<div>
+		<ul class="block-list">
+			<li>Clicking this block will take you to <a href="http://davidwalsh.name">DavidWalsh.name</a></li>
+			<li>Clicking this block will take you to <a href="http://scriptandstyle.com">Script&Style.com</a>.</li>
+			<li>Clicking this block will take you to <a href="http://mootools.net">MooTools.net</a></li>
+		</ul>
+	</div>
 	
 ### Javascript
 	var clix = new dwClickables({
