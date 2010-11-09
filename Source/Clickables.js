@@ -44,10 +44,12 @@ var Clickables = new Class({
 		this.elements.each(function(el) {
 		
 			//get the href
-			var anchor = el.getElements('a' + (this.options.selectClass ? '.' + this.options.selectClass : ''))[0];
-		
+			var elements = el.getElements('a' + (this.options.selectClass ? '.' + this.options.selectClass : ''));
+			
 			//if we found one
-			if($defined(anchor)) {
+			if(elements.length) {
+				
+				var anchor = elements[0];
 			
 				//add a click event to the item so it goes there when clicked. 
 				this.setClick(el,anchor.get('href'));
